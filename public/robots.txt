@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /m/
+Disallow: /r/
+Disallow: /e/
+
+Sitemap: https://atsumari-guchi.yhay81.com/sitemap.xml

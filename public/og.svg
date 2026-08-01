@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f4efe5"/>
+  <rect x="50" y="45" width="1100" height="540" rx="28" fill="#fffdf7" stroke="#c8baa6" stroke-width="4"/>
+  <rect x="50" y="45" width="1100" height="22" rx="11" fill="#2c4657"/>
+  <rect x="80" y="92" width="46" height="46" rx="8" fill="#dce8ed" stroke="#2c4657" stroke-width="5"/>
+  <path d="M96 97v36M111 97v36" stroke="#2c4657" stroke-width="5"/>
+  <text x="148" y="128" fill="#293437" font-family="Yu Gothic, sans-serif" font-size="32" font-weight="700" letter-spacing="4">集まり口</text>
+  <text x="80" y="190" fill="#47748b" font-family="Cascadia Mono, monospace" font-size="18" font-weight="700" letter-spacing="4">EVENT ENTRANCE</text>
+  <text x="80" y="246" fill="#293437" font-family="Yu Mincho, serif" font-size="46" font-weight="700">参加まで、迷わせない。</text>
+
+  <rect x="80" y="312" width="240" height="170" rx="12" fill="#283130" stroke="#171d1e" stroke-width="4"/>
+  <text x="200" y="347" fill="#77d8a0" font-family="Yu Gothic, sans-serif" font-size="20" text-anchor="middle" font-weight="700">受付中</text>
+  <text x="200" y="396" fill="#ffffff" font-family="Cascadia Mono, monospace" font-size="38" text-anchor="middle" font-weight="700">18 / 24</text>
+  <rect x="112" y="428" width="176" height="14" rx="7" fill="#5b6663"/>
+  <rect x="112" y="428" width="132" height="14" rx="7" fill="#69c18f"/>
+
+  <path d="M320 396 C365 396 365 353 408 353" fill="none" stroke="#c86b3d" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="320" cy="396" r="13" fill="#e6ece8" stroke="#171d1e" stroke-width="5"/>
+
+  <rect x="408" y="300" width="292" height="208" rx="12" fill="#283130" stroke="#171d1e" stroke-width="4"/>
+  <rect x="445" y="327" width="57" height="151" fill="#46504e" stroke="#151a1a" stroke-width="4"/>
+  <rect x="606" y="327" width="57" height="151" fill="#46504e" stroke="#151a1a" stroke-width="4"/>
+  <circle cx="473" cy="366" r="10" fill="#d6ded9" stroke="#202726" stroke-width="5"/>
+  <circle cx="634" cy="366" r="10" fill="#d6ded9" stroke="#202726" stroke-width="5"/>
+  <rect x="522" y="339" width="65" height="26" rx="13" fill="#39423f" stroke="#151a19" stroke-width="3"/>
+  <circle cx="538" cy="352" r="7" fill="#6ec58f"/>
+  <circle cx="555" cy="352" r="7" fill="#e4ad47"/>
+  <circle cx="572" cy="352" r="7" fill="#7aaac2"/>
+  <rect x="516" y="408" width="42" height="56" rx="7" fill="#d9e9df" stroke="#18201f" stroke-width="4"/>
+  <text x="537" y="445" fill="#285844" font-family="Yu Gothic, sans-serif" font-size="24" text-anchor="middle" font-weight="700">参</text>
+  <rect x="568" y="408" width="42" height="56" rx="7" fill="#f4e5bb" stroke="#18201f" stroke-width="4"/>
+  <text x="589" y="445" fill="#755617" font-family="Yu Gothic, sans-serif" font-size="24" text-anchor="middle" font-weight="700">興</text>
+
+  <path d="M700 396 C744 396 744 353 788 353" fill="none" stroke="#d59b38" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="700" cy="396" r="13" fill="#e6ece8" stroke="#171d1e" stroke-width="5"/>
+
+  <rect x="788" y="312" width="332" height="170" rx="12" fill="#fffdf7" stroke="#8c8173" stroke-width="4"/>
+  <text x="822" y="350" fill="#47748b" font-family="Cascadia Mono, monospace" font-size="18" font-weight="700">ROSTER</text>
+  <rect x="822" y="374" width="46" height="54" rx="7" fill="#d9e9df"/>
+  <rect x="882" y="374" width="46" height="54" rx="7" fill="#d9e9df"/>
+  <rect x="942" y="374" width="46" height="54" rx="7" fill="#f2d8c6"/>
+  <rect x="1002" y="374" width="46" height="54" rx="7" fill="#f4e5bb"/>
+  <line x1="822" y1="451" x2="1080" y2="451" stroke="#c8baa6" stroke-width="5"/>
+  <text x="80" y="540" fill="#687375" font-family="Yu Gothic, sans-serif" font-size="22">案内  →  参加表明  →  定員・待ち列  →  当日の名簿</text>
+</svg>

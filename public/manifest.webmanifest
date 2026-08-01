@@ -1,0 +1,16 @@
+{
+  "name": "集まり口",
+  "short_name": "集まり口",
+  "description": "アカウントなしで小さなイベントの参加受付と名簿をまとめる",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe5",
+  "theme_color": "#2c4657",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
